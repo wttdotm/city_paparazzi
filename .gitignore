@@ -1,0 +1,6 @@
+node_modules/
+data/database.db
+images/
+.env
+package-lock.json
+.DS_Store
